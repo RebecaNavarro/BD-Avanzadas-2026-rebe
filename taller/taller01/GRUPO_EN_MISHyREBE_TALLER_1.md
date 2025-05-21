@@ -114,3 +114,4 @@ GROUP BY c.customer_id, nombre_completo;
 SELECT * FROM vista_clientes_vip_peliculas;
 ```
 
+![Captura de pantalla 2025-05-21 164912](https://github.com/user-attachments/assets/015e0d9b-1306-4e48-aa41-2d9d1329b65d)
