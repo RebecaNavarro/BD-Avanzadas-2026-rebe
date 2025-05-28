@@ -53,4 +53,4 @@ Marketing necesita generar un reporte que muestre cuanto dinero ha generado cada
 ## Particionamiento 
 
 Los logs creados en ejercicios anteriores provocara una tabla con muchos datos para una mejor consulta 
-particionar por fecha dicha tabla para cada año.
+particionar por fecha dicha tabla para cada año. ( 2022- 2023 -2024 - 2025)
