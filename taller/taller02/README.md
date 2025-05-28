@@ -153,7 +153,7 @@ CREATE INDEX idx_rental_rental_date ON rental(rental_date);
 ## Particionamiento 
 
 Los logs creados en ejercicios anteriores provocara una tabla con muchos datos para una mejor consulta 
-particionar por fecha dicha tabla para cada año.
+particionar por fecha dicha tabla para cada año. ( 2022- 2023 -2024 - 2025)
 ```
 create table rental_log(id serial, rental_id int, action text, log_date date default now())
 partition by range(log_date)
@@ -176,3 +176,6 @@ create table rental_log_2025
 
 
 ```
+
+
+
