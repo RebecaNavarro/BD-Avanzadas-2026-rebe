@@ -161,4 +161,18 @@ partition by range(log_date)
 create table rental_log_2025
     partition of rental_log
     for values from ('2025-01-01') to ('2025-12-31');
+
+create table rental_log_2024
+    partition of rental_log
+    for values from ('2024-01-01') to ('2024-12-31');
+
+create table rental_log_2023
+    partition of rental_log
+    for values from ('2023-01-01') to ('2023-12-31');
+
+create table rental_log_2025
+    partition of rental_log
+    for values from ('2025-01-01') to ('2025-12-31');
+
+
 ```
