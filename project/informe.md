@@ -35,8 +35,6 @@
 
 5. **Diseño de la Base de Datos**
 
--   Modelo relacional (SQL).
--   Diagramas entidad-relación (ER).
 -   Modelo NoSQL.
 -   Estructura de documentos y colecciones.
 -   Modelo de datos y almacenamiento para Big Data.
