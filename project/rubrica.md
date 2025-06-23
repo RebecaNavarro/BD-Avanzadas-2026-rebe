@@ -17,7 +17,7 @@
 | ---------------------------------------------- | ------ |
 | Diseño e implementación de Base de Datos SQL   | 8      |
 | Uso correcto de modelo NoSQL (MongoDB/Redis)   | 6      |
-| Integración Big Data / Clustering / ML         | 6      |
+| Integración Big Data                           | 6      |
 | Uso de consultas avanzadas, índices, funciones | 5      |
 | Contenedores/Docker Compose funcional          | 5      |
 | Scripts reproducibles y bien documentados      | 5      |
